@@ -1,3 +1,3 @@
-Author: https://github.com/dennisdurano
-#ScrumTeam
+Author: https://github.com/dennisdurano<br/>
+#ScrumTeam<br/>
 API for Scrum Team
