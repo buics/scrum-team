@@ -1,5 +1,8 @@
 package com.example.demo;
-
+/**
+*   Team member POJO 
+*    
+*/
 public class TeamMember extends Employee{
 	String role;
 
